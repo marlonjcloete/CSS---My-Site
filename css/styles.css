@@ -1,0 +1,135 @@
+body{
+    background-color: beige;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Concert One', cursive;
+    color: #40514E
+}
+
+.btn {
+    background: #d1b02f;
+    background-image: -webkit-linear-gradient(top, #f5d556, #e6e333);
+    background-image: -moz-linear-gradient(top, #f5d556, #e6e333);
+    background-image: -ms-linear-gradient(top, #f5d556, #e6e333);
+    background-image: -o-linear-gradient(top, #f5d556, #e6e333);
+    background-image: linear-gradient(to bottom, #f5d556, #e6e333);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Concert One', cursive;
+    color: crimson;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffa442;
+    text-decoration: none;
+  }
+
+
+.footer-link{
+    color: crimson;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 1.8rem;
+    
+}
+
+a:hover{
+    color: red;
+}
+
+hr{
+    border-style: none;
+    border-color: rgb(165, 164, 164);
+    border-top-style: dotted;
+    border-width: 6px;
+    width: 3%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Moon Dance', cursive;
+    font-size: 5rem;
+    color: crimson;
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 3rem;
+    color: crimson;
+}
+
+h3{
+    font-family: 'Concert One', cursive;
+    color: maroon;
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1.5rem;
+    line-height: 2;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.top-container{
+    background-color: #FBC252;
+    margin-left: 0;
+}
+
+.bottom-container{
+    background-color:  #FBC252;
+    height: 155px;
+    margin-top: 100px;
+    padding-top: 20px;
+   
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: relative;
+    left: 200px;
+    margin-top: 3%;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left; 
+    line-height: 2;
+}
+
+.development-img{
+    float: left;
+    margin-right: 30px;
+}
+
+.controller-img{
+    float: right;
+    margin-left: 30px;
+}
+
+.profile{
+    margin-top: 100px;
+}
+
+.icons img{
+    padding: 0 50px 0 50px;
+    margin-bottom: 15px;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto;
+}
